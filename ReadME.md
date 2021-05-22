@@ -2,7 +2,7 @@ This code is the first version of our paper, **Leveraging historical interaction
 
 This paper presented a pre-training approach for conversational recommendation task, which focused on leveraging the item sequence from user history and attribute sequence from conversation data effectively. Based on a self-attentive architecture, our approach designed two pre-training tasks, namely Masked Item Prediction (MIP) and the Substituted Attributes Discrimination (SAD). We further improved our pre-training method by introducing a negative generator to produce high-quality negative samples. Experimental results on two datasets demonstrated the effectiveness of our approach for conversational recommendation task.
 
-<img src="./table1.png" width=400 height=240 />
+<img src="figure.png" width=300 height=240 />
 
 
 # Environment
